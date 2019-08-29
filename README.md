@@ -1,1 +1,1 @@
-Implementation of historical data of 16th Century Mediterranean News traffic to Neo4J relational database and it's visualization on a interactive map interface with OpenLayers. Also data operations are implemented with Neo4J for Swagger.
+Implementation of historical data of 16th Century Mediterranean News traffic to Neo4J relational database and it's visualization on a interactive map interface with OpenLayers. Also data operations are implemented with Neo4J for Swagger. Javacript is used for plugins.
